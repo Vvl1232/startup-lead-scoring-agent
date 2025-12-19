@@ -45,7 +45,7 @@ AI-powered lead identification, enrichment, and scoring pipeline for biotech BD 
 ## 4️⃣ Live Outputs
 
 - **Google Sheet**: [View Live Sheet](https://docs.google.com/spreadsheets/d/19Kpm88NnI0EZ4G_nNHJzXgBuGdNoPTSA4IQ1yQ8D_zw/edit)
-- **Streamlit Dashboard**: Run locally with `streamlit run streamlit_app.py`
+- **Streamlit Dashboard**: [View Live Demo](https://startup-lead-scoring-agent-hsg5rnqzwcs7iih7fjkxqw.streamlit.app/)
 
 ## 5️⃣ Assumptions
 
@@ -53,3 +53,4 @@ AI-powered lead identification, enrichment, and scoring pipeline for biotech BD 
 - **No Web Scraping**: Static data only, no live LinkedIn/web scraping
 - **Reproducible Design**: Deterministic pipeline with pinned dependencies
 - **Service Account**: Uses Google Sheets API with service account authentication
+
