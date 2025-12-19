@@ -1,0 +1,16 @@
+[
+  {
+    "rank": 1,
+    "score": 86,
+    "name": "Dr. Sarah Lee",
+    "title": "Director of Toxicology",
+    "company": "BioGenX",
+    "location": "Cambridge, MA",
+    "linkedin": "https://linkedin.com/in/sarahlee",
+    "score_breakdown": {
+      "role_match": 40,
+      "company_stage": 30,
+      "location_match": 16
+    }
+  }
+]

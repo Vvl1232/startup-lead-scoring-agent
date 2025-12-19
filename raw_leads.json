@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dr. Sarah Lee",
+    "title": "Director of Toxicology",
+    "company": "BioGenX",
+    "location": "Cambridge, MA",
+    "linkedin": "https://linkedin.com/in/sarahlee"
+  },
+  {
+    "name": "Dr. Amit Verma",
+    "title": "Senior Scientist",
+    "company": "EarlyBio",
+    "location": "Austin, TX",
+    "linkedin": "https://linkedin.com/in/amitverma"
+  }
+]
